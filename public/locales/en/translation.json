@@ -1,0 +1,10 @@
+{
+    "fruit":{
+        "1": "apple",
+        "2": "banana"
+    },
+    "car":{
+        "1": "lamborghini",
+        "2": "aston martin"
+    }
+}
